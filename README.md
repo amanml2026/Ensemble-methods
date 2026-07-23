@@ -8,6 +8,7 @@ This repository contains implementations and experiments with some of the most w
 * ✅ Bagging Classifier
 * ✅ Random Forest Classifier (along with feature importance and OOB score)
 * ✅ AdaBoost
+* ✅ Gradient Boosting Regressor
 
 ## 🛠️ Technologies Used
 
