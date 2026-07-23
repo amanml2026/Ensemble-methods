@@ -7,6 +7,7 @@ This repository contains implementations and experiments with some of the most w
 * ✅ Voting Classifier (Hard & Soft Voting)
 * ✅ Bagging Classifier
 * ✅ Random Forest Classifier (along with feature importance and OOB score)
+* ✅ AdaBoost
 
 ## 🛠️ Technologies Used
 
